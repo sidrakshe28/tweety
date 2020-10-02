@@ -28,7 +28,8 @@ function Post({
         <div className="post__body">
             <div className="post__header">
                 <div className="post__headerText">
-                    <h3> sid { " "} <span>
+                    <h3> sid { " "}
+                     <span className="post__headerSpecial">
                      <VerifiedUserIcon className="post__badge" />
                     </span>
 
