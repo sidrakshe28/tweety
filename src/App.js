@@ -6,7 +6,11 @@ function App() {
   return (
     <div className="app">
       <h1>lets build tweety</h1>
+      {/* Sidebar */}
 
+      {/* feed */}
+
+      {/*widegts */}
     </div>
     
    
