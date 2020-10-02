@@ -10,11 +10,17 @@
     color: var(--twitter-color);
     transition: color 100ms ease-out;
   }
-  
+
 
 .sidebarOption > .MuiSvgIcon-root {
     padding: 20px;
   }
+
+  
+  .sidebarOption--active {
+    color: var(--twitter-color);
+  }
+
 
   .sidebarOption > h2 {
     font-weight: 800;
