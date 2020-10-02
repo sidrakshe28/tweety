@@ -17,6 +17,9 @@ function Feed() {
 
         {/*post*/}
         <Post/>
+        <Post/>
+        <Post/>
+        
 
 
 

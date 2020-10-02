@@ -9,13 +9,8 @@ function App() {
   return (
     <div className="app">
       
-      {/* Sidebar */}
      <Sidebar/>
-
-      {/* feed */}
       <Feed/>
-
-      {/*widegts */}
       <Widgets/>
     </div>
     
