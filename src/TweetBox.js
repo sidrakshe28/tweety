@@ -10,10 +10,10 @@
             <div className="tweetBox__input">
               <Avatar src="https://twitter.com/SidRakshe28/photo" />
               <input placeholder="whats happening?" type="text" />
-              <input placeholder="enter image url" type="text" />
+              
               
               </div>
-              <Button> Tweet</Button>
+              <Button className="tweetBox__tweetButton"> Tweet</Button>
             </form>
     </div>
   );
