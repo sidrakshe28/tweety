@@ -13,6 +13,9 @@ function Feed() {
         {/* tweet box */}
         <TweetBox />
 
+        {/*post*/}
+        
+
 
         </div>
     );
