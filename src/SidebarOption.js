@@ -1,9 +1,10 @@
 import React from 'react'
 
-function SidebarOption() {
+function SidebarOption({ text,Icon }) {
     return (
         <div className="sidebarOptions ">
-            <h2>THis i soption </h2>
+            
+            <h2>{text}</h2>
             
         </div>
     )
