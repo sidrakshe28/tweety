@@ -8,7 +8,7 @@
         <div className="tweetBox">
           <form>
             <div className="tweetBox__input">
-              <Avatar src="https://twitter.com/SidRakshe28/photo" />
+              <Avatar src="https://ibb.co/PYKMGPf" />
               <input placeholder="whats happening?" type="text" />
               </div>
 
