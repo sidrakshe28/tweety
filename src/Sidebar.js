@@ -32,6 +32,9 @@ function Sidebar() {
             
             { /*side bar options*/}
             
+            <Button variant="outlined" className="sidebar__tweet" fullWidth>
+             Tweet
+      </Button>
         </div>
     );
 }
