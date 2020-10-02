@@ -22,24 +22,24 @@ function Post({
         <div className="post">
         <div className="post__avatar">
             
-            <Avatar src="https://twitter.com/SidRakshe28/photo" />
+            <Avatar src={avatar} />
             
         </div>
         <div className="post__body">
             <div className="post__header">
                 <div className="post__headerText">
-                    <h3> sid { " "}
+                    <h3> {displayname} { " "}
                      <span className="post__headerSpecial">
-                     <VerifiedUserIcon className="post__badge" />
+                     {verified && <VerifiedUserIcon className="post__badge" /> @{username}
                     </span>
 
                     </h3>
                     </div>
                     <div  className="post__headerDescription">
-                   <p>{text }</p>
+                   <p>{text}</p>
                    </div>
                    </div>
-                   <img src="" alt=""/>
+                   <img src={image} alt=""/>
                    <div className="post__footer">
                    <ChatBubbleOutlineIcon fontSize="small" />
                    <RepeatIcon fontSize="small" />
