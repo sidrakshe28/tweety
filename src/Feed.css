@@ -5,6 +5,10 @@
     overflow-y: scroll;
 }
 
+.feed::-webkit-scrollbar {
+    display: none;
+  }
+
 .feed__header {
     position: sticky;
     top: 0;
@@ -13,6 +17,7 @@
     border: 1px solid var(--twitter-background);
     padding: 15px 20px;
   }
+
 
   .feed__header > h2 {
     font-size: 20px;
