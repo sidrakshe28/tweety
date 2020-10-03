@@ -1,21 +1,16 @@
-<p align="center">
-    <img src="./dist/img/logo.png" alt="forkify" width="280px">
-   
 
-</p>
 Tweety is a lower version of Twitter clone made with technologies like ReactJS, Material UI and firebase for real time database.
 
 ## DEMO
 <p align="center">
-<img src="./src/demo.gif" alt="Tweety">
+<img src="./src/demo1.gif" alt="Tweety">
 </p>
 
 
 ##  Technology Stack
-![ReactJs](https://img.shields.io/badge/frontend-Reactjs-61dafb?style=flat&logo=Reactjs)
-![Material UI](https://img.shields.io/badge/materail-ui-%23DB7093?style=flat&logo=material-ui)
+![ReactJs](https://img.shields.io/badge/frontend-ReactJs-yellow?style=flat&logo=ReactJs)
+![Material UI](https://img.shields.io/badge/frontend-ReactJs-yellowstyle=flat&logo=material-ui)
 ![Firebase](https://img.shields.io/badge/firebase-red?style=flat&logo=Firebase)
-
 
 * [ReactJs](https://reactjs.org/)
 * [Material UI](https://material-ui.com/)
