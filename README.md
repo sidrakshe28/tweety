@@ -1,13 +1,13 @@
 
 Tweety is a lower version of Twitter clone made with technologies like ReactJS, Material UI and firebase for real time database.
 
-## DEMO
+## :film_projector: Demo
 <p align="center">
 <img src="./src/demo1.gif" alt="Tweety">
 </p>
 
 
-##  Technology Stack
+## :crystal_ball: Technology Stack
 ![ReactJs](https://img.shields.io/badge/frontend-ReactJs-yellow?style=flat&logo=ReactJs)
 ![Material UI](https://img.shields.io/badge/styling--component-Material%20UI-blue?style=flat&logo=material-ui)
 ![Firebase](https://img.shields.io/badge/firebase-red?style=flat&logo=Firebase)
@@ -18,11 +18,11 @@ Tweety is a lower version of Twitter clone made with technologies like ReactJS, 
 
 
 
-##  Prerequisites
+## :hatching_chick:  Prerequisites
 * [node](https://nodejs.org/en/) >= 12.18.0
 * npm >= 6.14.4
 
-## Installation
+## :zap:  Installation
 
 1. Clone / Download [this](https://github.com/sidrakshe28/tweety) repo.
 2. Inside the project open a terminal and run:
@@ -40,7 +40,7 @@ Tweety is a lower version of Twitter clone made with technologies like ReactJS, 
     ```
 
 
-##  Author
+##  :woman_technologist: Author
 [![Twitter](https://img.shields.io/badge/follow-%40SidRakshe28-1DA1F2?style=flat&logo=Twitter)](https://twitter.com/SidRakshe28) 
 
 [![LinkedIn](https://img.shields.io/badge/connect-%40siddhika28-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/siddhika28/)
